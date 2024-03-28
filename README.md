@@ -34,6 +34,11 @@ I'm a passionate Cloud Infrastructure Developer with expertise in various techno
 ## ⚡ Fun fact...
 
 I try to compose song in my spare time!
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vjsingh2793&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vjsingh2793&theme=dark&hide_border=true" width="400">
+</p>
 
 ---
 <p align="center">
